@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T15:32:06.634Z",
+  "generated_at": "2026-07-09T15:32:57.595Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 2,
   "products": [
     {
       "id": "7d10a0bd-ad2f-487f-98ba-4bcbeb4f2ba0",
-      "slug": "kvsvt-chd-pamy-lshtyh-krh-0udbr0",
+      "slug": "kvsvt-chd-pamy-lshtyh-krh-15i9ds",
       "name": "כוסות חד פעמי לשתיה קרה ",
       "name_translations": {},
-      "description": "<p>כוסות חד פעמי לשתיה קרה </p>",
+      "description": "<p>כוסות חד פעמי לשתיה קרה</p>",
       "short_description": "כוסות חד פעמי לשתיה קרה ",
       "sku": null,
       "brand": null,
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-chd-pamy-lshtyh-krh-0udbr0",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-chd-pamy-lshtyh-krh-15i9ds",
       "categories": [],
-      "updated_at": "2026-07-09T14:09:13.109Z"
+      "updated_at": "2026-07-09T15:32:37.966Z"
     },
     {
       "id": "eeb50464-d6d3-4e28-932a-44dab7086ba5",
