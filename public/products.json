@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:45:55.688Z",
+  "generated_at": "2026-07-09T16:47:38.476Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 16,
+  "count": 17,
   "products": [
+    {
+      "id": "55783142-0c5b-49c9-ac57-a00b2221fa42",
+      "slug": "tbnyt-aynglysh-kyyk-alvmnyvm-95r9gm",
+      "name": "תבנית אינגליש קייק אלומניום ",
+      "name_translations": {},
+      "description": "<p>תבנית אינגליש קייק אלומניום </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615594516-pxuyb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-aynglysh-kyyk-alvmnyvm-95r9gm",
+      "categories": [],
+      "updated_at": "2026-07-09T16:47:06.151Z"
+    },
     {
       "id": "79beaa9a-7e65-4af7-b000-8ca1bbc40013",
       "slug": "skyn-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1je36g",
