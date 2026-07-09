@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:47:38.476Z",
+  "generated_at": "2026-07-09T16:49:06.170Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 17,
+  "count": 18,
   "products": [
+    {
+      "id": "f7f10124-7740-479b-b678-c82680033470",
+      "slug": "tbnyt-alvmynyvm-gstrvnvm-szzyub",
+      "name": "תבנית אלומיניום גסטרונום",
+      "name_translations": {},
+      "description": "<p>תבנית אלומיניום גסטרונום </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615675066-5oepcf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-gstrvnvm-szzyub",
+      "categories": [],
+      "updated_at": "2026-07-09T16:48:34.704Z"
+    },
     {
       "id": "55783142-0c5b-49c9-ac57-a00b2221fa42",
       "slug": "tbnyt-aynglysh-kyyk-alvmnyvm-95r9gm",
