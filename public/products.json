@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:50:19.866Z",
+  "generated_at": "2026-07-09T16:52:41.561Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 19,
+  "count": 20,
   "products": [
+    {
+      "id": "276b2e9b-3fbe-4ab6-ba34-76aaab849a41",
+      "slug": "tbnyt-alvmynyvm-a5-yh4u7n",
+      "name": "תבנית אלומיניום A5",
+      "name_translations": {},
+      "description": "<p>תבנית אלומיניום A5</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615815737-s2akk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-a5-yh4u7n",
+      "categories": [],
+      "updated_at": "2026-07-09T16:52:09.661Z"
+    },
     {
       "id": "f5714e0b-347e-429e-a1b8-5c9185d1c1a6",
       "slug": "tbnyt-alvmynyvm-dgm-105-79bqmc",
