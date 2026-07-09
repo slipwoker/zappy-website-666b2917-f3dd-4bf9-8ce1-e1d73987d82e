@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:55:28.888Z",
+  "generated_at": "2026-07-09T16:56:59.565Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 22,
+  "count": 23,
   "products": [
+    {
+      "id": "6674e8e6-98e1-4b29-96c4-9f2ff77cbc5b",
+      "slug": "tbnyt-aynglysh-kyyk-mnyyr-1eq16j",
+      "name": "תבנית אינגליש קייק מנייר ",
+      "name_translations": {},
+      "description": "<p>תבנית אינגליש קייק מנייר </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783616145713-8ibpom.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-aynglysh-kyyk-mnyyr-1eq16j",
+      "categories": [],
+      "updated_at": "2026-07-09T16:56:28.065Z"
+    },
     {
       "id": "c93b807e-4fde-4a87-95d7-3aa5c0d36b3f",
       "slug": "tbnyt-aynglysh-kyyk-mnyyr-f9tbs1",
