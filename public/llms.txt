@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 7**
+**Total active products: 8**
+
+### צלחת ליסה צבע לבן
+https://yotzimmehakelim.zappy5.app/product/tslcht-lysh-tsba-lbn-jjf2a8
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: צלחת ליסה צבע לבן
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783614511897-fcz5qg.webp
 
 ### צלחת ליסה נצנץ זהב 
 https://yotzimmehakelim.zappy5.app/product/tslcht-lysh-ntsnts-zhb-7ae0oa

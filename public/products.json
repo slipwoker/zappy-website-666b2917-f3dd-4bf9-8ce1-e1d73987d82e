@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:28:33.915Z",
+  "generated_at": "2026-07-09T16:30:07.161Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 7,
+  "count": 8,
   "products": [
+    {
+      "id": "7fd7c776-da03-488f-bf2c-c9cb4783aae2",
+      "slug": "tslcht-lysh-tsba-lbn-jjf2a8",
+      "name": "צלחת ליסה צבע לבן",
+      "name_translations": {},
+      "description": "<p>צלחת ליסה צבע לבן </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783614511897-fcz5qg.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-lysh-tsba-lbn-jjf2a8",
+      "categories": [],
+      "updated_at": "2026-07-09T16:29:35.335Z"
+    },
     {
       "id": "3b6fc645-e7d3-4b6e-9726-7042f07e0641",
       "slug": "tslcht-lysh-ntsnts-zhb-7ae0oa",
