@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:19:21.658Z",
+  "generated_at": "2026-07-09T17:20:24.221Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 36,
+  "count": 37,
   "products": [
+    {
+      "id": "858fa5fe-a119-4483-ad03-ae657f871467",
+      "slug": "akvnvmykh-arba-lytr-1jgr80",
+      "name": "אקונומיקה ארבע ליטר",
+      "name_translations": {},
+      "description": "<p>אקונומיקה ארבע ליטר </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783617570111-yjpv7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/akvnvmykh-arba-lytr-1jgr80",
+      "categories": [],
+      "updated_at": "2026-07-09T17:19:52.421Z"
+    },
     {
       "id": "3202ec68-309c-4716-a959-404af823934f",
       "slug": "trsys-akvnvmykh-w3z8wo",
