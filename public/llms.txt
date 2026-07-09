@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### כוסות חד פעמי לשתיה קרה 
+https://example.com/product/kvsvt-chd-pamy-lshtyh-krh-0udbr0
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: כוסות חד פעמי לשתיה קרה
+- Image: https://example.com/assets/product-1783606095644-10ucoq.webp
 
 ### כוסות חד פעמי 
 https://example.com/product/kvsvt-chd-pamy-cz2y47

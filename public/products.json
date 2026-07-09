@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T14:05:14.614Z",
+  "generated_at": "2026-07-09T14:34:06.304Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "7d10a0bd-ad2f-487f-98ba-4bcbeb4f2ba0",
+      "slug": "kvsvt-chd-pamy-lshtyh-krh-0udbr0",
+      "name": "כוסות חד פעמי לשתיה קרה ",
+      "name_translations": {},
+      "description": "<p>כוסות חד פעמי לשתיה קרה </p>",
+      "short_description": "כוסות חד פעמי לשתיה קרה ",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1783606095644-10ucoq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvsvt-chd-pamy-lshtyh-krh-0udbr0",
+      "categories": [],
+      "updated_at": "2026-07-09T14:09:13.109Z"
+    },
     {
       "id": "eeb50464-d6d3-4e28-932a-44dab7086ba5",
       "slug": "kvsvt-chd-pamy-cz2y47",
