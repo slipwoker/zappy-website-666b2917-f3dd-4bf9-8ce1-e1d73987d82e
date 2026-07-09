@@ -1,14 +1,14 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:18:24.290Z",
+  "generated_at": "2026-07-09T16:19:06.180Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 4,
   "products": [
     {
       "id": "e8adf4a9-5f2d-4ee9-bc2e-485153f2e5d8",
-      "slug": "tslchvt-pfrzkr",
-      "name": "צלחות",
+      "slug": "tslchvt-vyntg-lbn-v4uspi",
+      "name": "צלחות וינטג' לבן",
       "name_translations": {},
       "description": "<p>צלחות וינטג' לבן</p>",
       "short_description": null,
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/tslchvt-pfrzkr",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslchvt-vyntg-lbn-v4uspi",
       "categories": [],
-      "updated_at": "2026-07-09T16:17:57.432Z"
+      "updated_at": "2026-07-09T16:18:34.738Z"
     },
     {
       "id": "ce41cec1-267e-45bf-9679-4e862bef4964",
