@@ -1,0 +1,88 @@
+# יוצאים מהכלים — Generative Engine Optimization Map
+
+> Yotzim Min HaKelim (יוצאים מהכלים) is a local retail store specializing in disposable tableware and single-use products, located in Kiryat Malachi, Israel. The store name is a fun Hebrew play on words — literally meaning 'going out of the dishes/vessels,' which is also a colloquial expression for 'going crazy with excitement.' This playful branding gives the business a lively, approachable, and community-friendly personality suited for a neighborhood shop.
+
+---
+
+## Pages
+
+### בית
+https://-666b2917.zappy5.app
+מחפשים כלים חד פעמיים איכותיים לאירועים ולמסיבות? ביוצאים מהכלים בקריית מלאכי תמצאו מגוון צלחות, כוסות ופתרונות הגשה שיוציאו אתכם מהכלים. בקרו עכשיו!
+
+### אודות
+https://-666b2917.zappy5.app/about
+יוצאים מהכלים היא חנות שכונתית בקריית מלאכי עם נשמה פרועה ואהבה אמיתית לכלים חד פעמיים. בואו לגלות מי אנחנו, למה אנחנו יוצאים מהכלים ואיך אנחנו הופכים כל אירוע לחוויה. מבטיחים חיוך!
+
+### פתרונות אירועים
+https://-666b2917.zappy5.app/event-solutions
+מתחתנים, חוגגים או מפיקים אירוע קייטרינג? ביוצאים מהכלים תקבלו פתרונות כלים חד פעמיים איכותיים לקייטרינג שיהפכו כל שולחן לחגיגה. התקשרו עוד היום לתכנון מושלם!
+
+### צור קשר
+https://-666b2917.zappy5.app/contact
+מוכנים להרים אירוע שיוציא אתכם מהכלים? מלאו את פרטי הקשר או קפצו לחנות בקריית מלאכי לקבלת ייעוץ, הצעת מחיר וכלים חד פעמיים שווים. אנחנו מחכים לכם!
+
+### Products
+https://-666b2917.zappy5.app/products
+המוצרים שלנו - יוצאים מהכלים
+
+### Product Detail
+https://-666b2917.zappy5.app/product/:slug
+פרטי המוצר - יוצאים מהכלים
+
+### Category
+https://-666b2917.zappy5.app/category/:slug
+מוצרים - יוצאים מהכלים
+
+### תודה שפניתם אלינו
+https://-666b2917.zappy5.app/thank-you
+יוצאים מהכלים - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-666b2917.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-666b2917.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-666b2917.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יוצאים מהכלים
+Yotzim Min HaKelim (יוצאים מהכלים) is a local retail store specializing in disposable tableware and single-use products, located in Kiryat Malachi, Israel. The store name is a fun Hebrew play on words — literally meaning 'going out of the dishes/vessels,' which is also a colloquial expression for 'going crazy with excitement.' This playful branding gives the business a lively, approachable, and community-friendly personality suited for a neighborhood shop.
+
+## Services/Products
+- כלים חד פעמיים
+
+## Target Audience
+- מתכנני אירועים
+- משפחות גדולות
+- עסקי קייטרינג
+- לקוחות פרטיים
+
+## Industry
+Disposable Tableware Retail
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-666b2917.zappy5.app/sitemap.xml
+- Robots: https://-666b2917.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-666b2917.zappy5.app/llms-full.txt
+- Products (JSON): https://-666b2917.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-666b2917.zappy5.app/product-feed.xml
