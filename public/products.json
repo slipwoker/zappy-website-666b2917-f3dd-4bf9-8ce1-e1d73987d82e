@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:25:34.582Z",
+  "generated_at": "2026-07-09T16:26:50.418Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 5,
+  "count": 6,
   "products": [
+    {
+      "id": "65887995-f8d3-429b-b2a7-ca98543f90d8",
+      "slug": "tslchvt-vyntg-ntsnts-ksp-ncc1gm",
+      "name": "צלחות וינטג' נצנץ כסף",
+      "name_translations": {},
+      "description": "<p>צלחות וינטג' נצנץ כסף </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783614344748-0j3bf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslchvt-vyntg-ntsnts-ksp-ncc1gm",
+      "categories": [],
+      "updated_at": "2026-07-09T16:26:18.669Z"
+    },
     {
       "id": "f22e0e66-98b9-49bf-af64-a2575242a4b7",
       "slug": "tslchvt-vyntg-ntsnts-zhb-lqg42z",
