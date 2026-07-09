@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 20**
+**Total active products: 21**
+
+### תבנית אינגליש קייק מנייר
+https://yotzimmehakelim.zappy5.app/product/tbnyt-aynglysh-kyyk-mnyyr-cdjvwx
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: תבנית אינגליש קייק מנייר
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783616020435-j7jzl.webp
 
 ### תבנית אלומיניום A5
 https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-a5-yh4u7n
