@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:42:08.843Z",
+  "generated_at": "2026-07-09T16:43:58.840Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 14,
+  "count": 15,
   "products": [
+    {
+      "id": "b84b22bc-fca3-4cc8-a800-6c911ee35424",
+      "slug": "kp-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-soyw7m",
+      "name": "כף וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור",
+      "name_translations": {},
+      "description": "<p>כף וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615349272-n1hfk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kp-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-soyw7m",
+      "categories": [],
+      "updated_at": "2026-07-09T16:43:27.030Z"
+    },
     {
       "id": "a957498f-c65d-400f-8759-b92ba8ffcdaf",
       "slug": "mzlg-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1m0gt9",
