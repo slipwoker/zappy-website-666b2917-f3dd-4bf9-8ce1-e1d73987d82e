@@ -65,11 +65,11 @@ https://yotzimmehakelim.zappy5.app/product/kvpsavt-am-mchsh-shkvp-2525-gvbh-5-e2
 - Description: קופסאות עם מחסה שקוף 25/25 גובה 5
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783617222003-3b0qst.webp
 
-### קופסאות 30/43 גובה 8
-https://yotzimmehakelim.zappy5.app/product/kvpsavt-3043-gvbh-8-mv6nb8
+### קופסאות עם מכסה שקוף 30/43 גובה 8
+https://yotzimmehakelim.zappy5.app/product/kvpsavt-am-mksh-shkvp-3043-gvbh-8-g83zt2
 - Price: 0.00 ILS
 - Availability: In stock
-- Description: קופסאות 30/43 גובה 8
+- Description: קופסאות 30/43 עם מכסה שקוף גובה 8
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783617167338-vihsji.webp
 
 ### קופסאות 30/43 גובה 8

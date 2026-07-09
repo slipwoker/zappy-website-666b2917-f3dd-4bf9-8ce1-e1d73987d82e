@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:15:13.063Z",
+  "generated_at": "2026-07-09T17:15:51.786Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 34,
@@ -29,10 +29,10 @@
     },
     {
       "id": "9844e85a-b1a0-46e1-868f-f53792182f22",
-      "slug": "kvpsavt-3043-gvbh-8-mv6nb8",
-      "name": "קופסאות 30/43 גובה 8",
+      "slug": "kvpsavt-am-mksh-shkvp-3043-gvbh-8-g83zt2",
+      "name": "קופסאות עם מכסה שקוף 30/43 גובה 8",
       "name_translations": {},
-      "description": "<p>קופסאות 30/43 גובה 8</p>",
+      "description": "<p>קופסאות 30/43 עם מכסה שקוף גובה 8</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-3043-gvbh-8-mv6nb8",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-am-mksh-shkvp-3043-gvbh-8-g83zt2",
       "categories": [],
-      "updated_at": "2026-07-09T17:13:12.693Z"
+      "updated_at": "2026-07-09T17:15:19.461Z"
     },
     {
       "id": "515e74b9-74c5-4efe-bf31-a012c1dd7624",
