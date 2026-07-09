@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:35:47.203Z",
+  "generated_at": "2026-07-09T16:37:19.867Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 11,
+  "count": 12,
   "products": [
+    {
+      "id": "8259e760-2669-4dd9-b351-25cc3594dd2a",
+      "slug": "mrkyzh-palas-arvz-125-jvhvxb",
+      "name": "מרקיזה פאלאס ארוז 125",
+      "name_translations": {},
+      "description": "<p>מרקיזה פלאס</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783614952571-nob1re.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mrkyzh-palas-arvz-125-jvhvxb",
+      "categories": [],
+      "updated_at": "2026-07-09T16:36:47.580Z"
+    },
     {
       "id": "a5fc23f5-cf55-4194-9dab-b387d50b37d2",
       "slug": "tslcht-svhv-tsba-shkvp-ha3j5q",
