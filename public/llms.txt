@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yotzimmehakelim.zappy5.app
 מחפשים כלים חד פעמיים איכותיים לאירועים ולמסיבות? ביוצאים מהכלים בקריית מלאכי תמצאו מגוון צלחות, כוסות ופתרונות הגשה שיוציאו אתכם מהכלים. בקרו עכשיו!
 
 ### אודות
-https://example.com/about
+https://yotzimmehakelim.zappy5.app/about
 יוצאים מהכלים היא חנות שכונתית בקריית מלאכי עם נשמה פרועה ואהבה אמיתית לכלים חד פעמיים. בואו לגלות מי אנחנו, למה אנחנו יוצאים מהכלים ואיך אנחנו הופכים כל אירוע לחוויה. מבטיחים חיוך!
 
 ### פתרונות אירועים
-https://example.com/event-solutions
+https://yotzimmehakelim.zappy5.app/event-solutions
 מתחתנים, חוגגים או מפיקים אירוע קייטרינג? ביוצאים מהכלים תקבלו פתרונות כלים חד פעמיים איכותיים לקייטרינג שיהפכו כל שולחן לחגיגה. התקשרו עוד היום לתכנון מושלם!
 
 ### צור קשר
-https://example.com/contact
+https://yotzimmehakelim.zappy5.app/contact
 מוכנים להרים אירוע שיוציא אתכם מהכלים? מלאו את פרטי הקשר או קפצו לחנות בקריית מלאכי לקבלת ייעוץ, הצעת מחיר וכלים חד פעמיים שווים. אנחנו מחכים לכם!
 
 ### Products
-https://example.com/products
+https://yotzimmehakelim.zappy5.app/products
 המוצרים שלנו - יוצאים מהכלים
 
 ### Product Detail
-https://example.com/product/:slug
+https://yotzimmehakelim.zappy5.app/product/:slug
 פרטי המוצר - יוצאים מהכלים
 
 ### Category
-https://example.com/category/:slug
+https://yotzimmehakelim.zappy5.app/category/:slug
 מוצרים - יוצאים מהכלים
 
 ### תודה שפניתם אלינו
-https://example.com/thank-you
+https://yotzimmehakelim.zappy5.app/thank-you
 יוצאים מהכלים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yotzimmehakelim.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yotzimmehakelim.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yotzimmehakelim.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,18 +59,18 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 2**
 
 ### כוסות חד פעמי לשתיה קרה 
-https://example.com/product/kvsvt-chd-pamy-lshtyh-krh-0udbr0
+https://yotzimmehakelim.zappy5.app/product/kvsvt-chd-pamy-lshtyh-krh-0udbr0
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: כוסות חד פעמי לשתיה קרה
-- Image: https://example.com/assets/product-1783606095644-10ucoq.webp
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783606095644-10ucoq.webp
 
 ### כוסות חד פעמי 
-https://example.com/product/kvsvt-chd-pamy-cz2y47
+https://yotzimmehakelim.zappy5.app/product/kvsvt-chd-pamy-cz2y47
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: כוסות חד פעמי
-- Image: https://example.com/assets/product-1783605554343-ftcnd.webp
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783605554343-ftcnd.webp
 
 ---
 
@@ -95,8 +95,8 @@ Disposable Tableware Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://yotzimmehakelim.zappy5.app/sitemap.xml
+- Robots: https://yotzimmehakelim.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yotzimmehakelim.zappy5.app/llms-full.txt
+- Products (JSON): https://yotzimmehakelim.zappy5.app/products.json
+- Products (Google Merchant RSS): https://yotzimmehakelim.zappy5.app/product-feed.xml
