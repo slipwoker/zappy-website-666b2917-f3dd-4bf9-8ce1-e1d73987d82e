@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:58:33.588Z",
+  "generated_at": "2026-07-09T17:00:55.182Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 24,
+  "count": 25,
   "products": [
+    {
+      "id": "0cd5b4c6-7127-449d-99ca-21a5bafb5c63",
+      "slug": "kvsvt-chm-gvdl-8oz-kyym-gm-bgdlym-12oz-10oz-16oz-v9pz6t",
+      "name": "כוסות חם גודל 8oz קיים גם בגדלים 12oz 10oz 16oz",
+      "name_translations": {},
+      "description": "<p>כוסות חם גודל 8oz קריין גם בגדלים 10oz 12oz 16oz</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783616312987-xg1mo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-chm-gvdl-8oz-kyym-gm-bgdlym-12oz-10oz-16oz-v9pz6t",
+      "categories": [],
+      "updated_at": "2026-07-09T17:00:23.535Z"
+    },
     {
       "id": "77ec7be6-9e15-45f1-804e-cab8e9aabb0d",
       "slug": "tbnyt-myny-aynglysh-kyyk-mnyyr-9x9dj9",
