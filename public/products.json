@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:16:28.402Z",
+  "generated_at": "2026-07-09T17:17:53.497Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 34,
+  "count": 35,
   "products": [
+    {
+      "id": "60c99c0b-5f5a-47b2-afcb-ed0031990b5d",
+      "slug": "kvpsavt-am-mksh-shkvp-1319-gvbh-5-lpjnfa",
+      "name": "קופסאות עם מכסה שקוף 13/19 גובה 5 ",
+      "name_translations": {},
+      "description": "<p>קופסאות עם מכסה שקוף 13/19 גובה 5 </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783617389164-bi3iv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-am-mksh-shkvp-1319-gvbh-5-lpjnfa",
+      "categories": [],
+      "updated_at": "2026-07-09T17:17:21.928Z"
+    },
     {
       "id": "3f962d41-1c34-4a2f-881b-a51e920e0871",
       "slug": "kvpsavt-am-mchsh-shkvp-2525-gvbh-5-e2yfm1",
