@@ -4,6 +4,19 @@
     <title>יוצאים מהכלים</title>
     <link>https://example.com</link>
     <description>Product feed for יוצאים מהכלים</description>
-    <lastBuildDate>Thu, 09 Jul 2026 13:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:04:37 GMT</lastBuildDate>
+    <item>
+      <g:id>eeb50464-d6d3-4e28-932a-44dab7086ba5</g:id>
+      <g:title>כוסות חד פעמי </g:title>
+      <g:description>כוסות חד פעמי</g:description>
+      <g:link>https://example.com/product/kvsvt-chd-pamy-cz2y47</g:link>
+      <g:image_link>https://example.com/assets/product-1783605554343-ftcnd.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1783605562176-idpdj.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>0.00 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>יוצאים מהכלים</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

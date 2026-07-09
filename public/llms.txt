@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### כוסות חד פעמי 
+https://example.com/product/kvsvt-chd-pamy-cz2y47
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: כוסות חד פעמי
+- Image: https://example.com/assets/product-1783605554343-ftcnd.webp
 
 ---
 
