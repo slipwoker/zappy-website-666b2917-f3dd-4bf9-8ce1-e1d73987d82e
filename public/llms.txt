@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 26**
+**Total active products: 27**
+
+### מגש קרטון חום במידה 13.5/7.5
+https://yotzimmehakelim.zappy5.app/product/mgsh-krtvn-chvm-bmydh-13575-n0m5h0
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: מגש קרטון חום במידה 13.5/7.5
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783616616630-qwnee4.webp
 
 ### קערה קראפט חומה 1300 מיל
 https://yotzimmehakelim.zappy5.app/product/karh-krapt-chvmh-1300-myl-6cxbc1
