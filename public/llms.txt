@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 23**
+**Total active products: 24**
+
+### תבנית מיני אינגליש קייק מנייר 
+https://yotzimmehakelim.zappy5.app/product/tbnyt-myny-aynglysh-kyyk-mnyyr-9x9dj9
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: תבנית מיני אינגליש קייק מנייר
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783616237772-8wmd95.webp
 
 ### תבנית אינגליש קייק מנייר 
 https://yotzimmehakelim.zappy5.app/product/tbnyt-aynglysh-kyyk-mnyyr-1eq16j
