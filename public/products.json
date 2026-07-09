@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:21:50.489Z",
+  "generated_at": "2026-07-09T17:22:46.817Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 38,
+  "count": 39,
   "products": [
+    {
+      "id": "c1aea02e-cd39-466d-aa5a-1870794c89ef",
+      "slug": "mnkh-rtspvt-arba-lytr-f5ttj9",
+      "name": "מנקה רצפות ארבע ליטר ",
+      "name_translations": {},
+      "description": "<p>מנקה רצפות ארבע ליטר </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783617709467-j3tfa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mnkh-rtspvt-arba-lytr-f5ttj9",
+      "categories": [],
+      "updated_at": "2026-07-09T17:22:15.451Z"
+    },
     {
       "id": "419896a5-bed0-4464-b74a-a84baaa99697",
       "slug": "nvzl-rtspvt-mrvkz-shty-lytr-884rty",
