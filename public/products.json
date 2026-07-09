@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:20:24.221Z",
+  "generated_at": "2026-07-09T17:21:50.489Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 37,
+  "count": 38,
   "products": [
+    {
+      "id": "419896a5-bed0-4464-b74a-a84baaa99697",
+      "slug": "nvzl-rtspvt-mrvkz-shty-lytr-884rty",
+      "name": "נוזל רצפות מרוכז שתי ליטר",
+      "name_translations": {},
+      "description": "<p>נוזל רצפות מרוכז שתי ליטר </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783617627569-jsbi1a.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/nvzl-rtspvt-mrvkz-shty-lytr-884rty",
+      "categories": [],
+      "updated_at": "2026-07-09T17:21:18.982Z"
+    },
     {
       "id": "858fa5fe-a119-4483-ad03-ae657f871467",
       "slug": "akvnvmykh-arba-lytr-1jgr80",
