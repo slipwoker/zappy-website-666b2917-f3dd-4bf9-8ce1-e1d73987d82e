@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:30:07.161Z",
+  "generated_at": "2026-07-09T16:31:56.919Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 8,
+  "count": 9,
   "products": [
+    {
+      "id": "4dd8e90f-ef80-4c06-93cb-a2fed2bcb0a6",
+      "slug": "tslcht-svhv-tsba-lbn-1n7e3f",
+      "name": "צלחת סוהו צבע לבן",
+      "name_translations": {},
+      "description": "<p>צלחת סוהו צבע לבן </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783614650904-59de48.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-svhv-tsba-lbn-1n7e3f",
+      "categories": [],
+      "updated_at": "2026-07-09T16:31:25.141Z"
+    },
     {
       "id": "7fd7c776-da03-488f-bf2c-c9cb4783aae2",
       "slug": "tslcht-lysh-tsba-lbn-jjf2a8",

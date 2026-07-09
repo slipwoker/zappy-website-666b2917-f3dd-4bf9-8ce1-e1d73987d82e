@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 8**
+**Total active products: 9**
+
+### צלחת סוהו צבע לבן
+https://yotzimmehakelim.zappy5.app/product/tslcht-svhv-tsba-lbn-1n7e3f
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: צלחת סוהו צבע לבן
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783614650904-59de48.webp
 
 ### צלחת ליסה צבע לבן
 https://yotzimmehakelim.zappy5.app/product/tslcht-lysh-tsba-lbn-jjf2a8
