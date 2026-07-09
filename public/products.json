@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:43:58.840Z",
+  "generated_at": "2026-07-09T16:45:55.688Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 15,
+  "count": 16,
   "products": [
+    {
+      "id": "79beaa9a-7e65-4af7-b000-8ca1bbc40013",
+      "slug": "skyn-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1je36g",
+      "name": "סכין וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור",
+      "name_translations": {},
+      "description": "<p>סכין וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615485487-0b72pf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/skyn-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1je36g",
+      "categories": [],
+      "updated_at": "2026-07-09T16:45:24.102Z"
+    },
     {
       "id": "b84b22bc-fca3-4cc8-a800-6c911ee35424",
       "slug": "kp-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-soyw7m",
