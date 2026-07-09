@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:39:04.961Z",
+  "generated_at": "2026-07-09T16:42:08.843Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 13,
+  "count": 14,
   "products": [
+    {
+      "id": "a957498f-c65d-400f-8759-b92ba8ffcdaf",
+      "slug": "mzlg-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1m0gt9",
+      "name": "מזלג וינטג' קיים  בלבן קרם לבן זהב נצנץ  שקוף ושחור ",
+      "name_translations": {},
+      "description": "<p>מזלג וינטג' קיים&nbsp;בלבן קרם לבן זהב נצנץ&nbsp;שקוף ושחור</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783615169793-h49yo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mzlg-vyntg-kyym-blbn-krm-lbn-zhb-ntsnts-shkvp-vshchvr-1m0gt9",
+      "categories": [],
+      "updated_at": "2026-07-09T16:41:37.159Z"
+    },
     {
       "id": "4471d370-02ba-4fdc-a91b-375c7ef156a8",
       "slug": "tslcht-palas-gvdl-7-kyym-gm-bgvdl-9-u69rva",
