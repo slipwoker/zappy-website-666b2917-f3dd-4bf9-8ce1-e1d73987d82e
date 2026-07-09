@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:04:58.234Z",
+  "generated_at": "2026-07-09T17:05:58.986Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 27,
+  "count": 28,
   "products": [
+    {
+      "id": "bb6aac81-aa3a-4a95-9799-f766eed240ad",
+      "slug": "nyyr-prgmnt-chvm-hw4zl0",
+      "name": "נייר פרגמנט חום",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783616700181-buigak.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/nyyr-prgmnt-chvm-hw4zl0",
+      "categories": [],
+      "updated_at": "2026-07-09T17:05:27.313Z"
+    },
     {
       "id": "a1a09d83-b598-4d10-bbde-201c41d58a54",
       "slug": "mgsh-krtvn-chvm-bmydh-13575-n0m5h0",
