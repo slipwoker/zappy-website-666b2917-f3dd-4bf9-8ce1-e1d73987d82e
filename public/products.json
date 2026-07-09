@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:07:07.239Z",
+  "generated_at": "2026-07-09T17:09:42.539Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 29,
+  "count": 30,
   "products": [
+    {
+      "id": "1db07ff1-d35a-4643-8e3a-350dd3b7596c",
+      "slug": "mgbvt-nyyr-tats-43jdhe",
+      "name": "מגבות נייר טאצ'",
+      "name_translations": {},
+      "description": "<p>מגבות נייר טאצ' </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783616921974-4z8dv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgbvt-nyyr-tats-43jdhe",
+      "categories": [],
+      "updated_at": "2026-07-09T17:09:09.690Z"
+    },
     {
       "id": "13da5360-35d6-4c35-9e93-b620e1c16cd8",
       "slug": "krtvn-lkrp-mvdbk-hlebav",
