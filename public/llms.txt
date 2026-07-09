@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-666b2917.zappy5.app
+https://example.com
 מחפשים כלים חד פעמיים איכותיים לאירועים ולמסיבות? ביוצאים מהכלים בקריית מלאכי תמצאו מגוון צלחות, כוסות ופתרונות הגשה שיוציאו אתכם מהכלים. בקרו עכשיו!
 
 ### אודות
-https://-666b2917.zappy5.app/about
+https://example.com/about
 יוצאים מהכלים היא חנות שכונתית בקריית מלאכי עם נשמה פרועה ואהבה אמיתית לכלים חד פעמיים. בואו לגלות מי אנחנו, למה אנחנו יוצאים מהכלים ואיך אנחנו הופכים כל אירוע לחוויה. מבטיחים חיוך!
 
 ### פתרונות אירועים
-https://-666b2917.zappy5.app/event-solutions
+https://example.com/event-solutions
 מתחתנים, חוגגים או מפיקים אירוע קייטרינג? ביוצאים מהכלים תקבלו פתרונות כלים חד פעמיים איכותיים לקייטרינג שיהפכו כל שולחן לחגיגה. התקשרו עוד היום לתכנון מושלם!
 
 ### צור קשר
-https://-666b2917.zappy5.app/contact
+https://example.com/contact
 מוכנים להרים אירוע שיוציא אתכם מהכלים? מלאו את פרטי הקשר או קפצו לחנות בקריית מלאכי לקבלת ייעוץ, הצעת מחיר וכלים חד פעמיים שווים. אנחנו מחכים לכם!
 
 ### Products
-https://-666b2917.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - יוצאים מהכלים
 
 ### Product Detail
-https://-666b2917.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - יוצאים מהכלים
 
 ### Category
-https://-666b2917.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - יוצאים מהכלים
 
 ### תודה שפניתם אלינו
-https://-666b2917.zappy5.app/thank-you
+https://example.com/thank-you
 יוצאים מהכלים - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-666b2917.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-666b2917.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-666b2917.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -81,8 +81,8 @@ Disposable Tableware Retail
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-666b2917.zappy5.app/sitemap.xml
-- Robots: https://-666b2917.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-666b2917.zappy5.app/llms-full.txt
-- Products (JSON): https://-666b2917.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-666b2917.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
