@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:11:15.398Z",
+  "generated_at": "2026-07-09T17:12:45.396Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 31,
+  "count": 32,
   "products": [
+    {
+      "id": "515e74b9-74c5-4efe-bf31-a012c1dd7624",
+      "slug": "kvpsavt-3043-gvbh-8-9cgv0t",
+      "name": "קופסאות 30/43 גובה 8",
+      "name_translations": {},
+      "description": "<p>קופסאות 30/43 גובה 8</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783617087157-3sbkfrs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-3043-gvbh-8-9cgv0t",
+      "categories": [],
+      "updated_at": "2026-07-09T17:12:13.796Z"
+    },
     {
       "id": "43d6cab7-ab79-450a-b58e-8ac2e4fc86b0",
       "slug": "kvpsavt-am-mksh-shkvp-1319-gvbh-5-sm-tjpyuz",
