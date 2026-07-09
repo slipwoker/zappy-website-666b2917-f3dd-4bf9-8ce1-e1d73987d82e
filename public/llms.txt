@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 18**
+**Total active products: 19**
+
+### תבנית אלומיניום דגם 105
+https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-dgm-105-79bqmc
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: תבנית אלומיניום דגם 105
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783615759693-4quqfe.webp
 
 ### תבנית אלומיניום גסטרונום
 https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-gstrvnvm-szzyub
