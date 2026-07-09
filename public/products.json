@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T17:24:16.848Z",
+  "generated_at": "2026-07-09T17:25:25.351Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 39,
   "products": [
     {
       "id": "c1aea02e-cd39-466d-aa5a-1870794c89ef",
-      "slug": "mnkh-rtspvt-arba-lytr-f5ttj9",
-      "name": "מנקה רצפות ארבע ליטר ",
+      "slug": "mnkh-rtspvt-arba-lytr-tats-1qp82g",
+      "name": "מנקה רצפות ארבע ליטר טאצ'",
       "name_translations": {},
-      "description": "<p>מנקה רצפות ארבע ליטר </p>",
+      "description": "<p>מנקה רצפות ארבע ליטר טאצ' </p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -23,16 +23,16 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/mnkh-rtspvt-arba-lytr-f5ttj9",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mnkh-rtspvt-arba-lytr-tats-1qp82g",
       "categories": [],
-      "updated_at": "2026-07-09T17:22:15.451Z"
+      "updated_at": "2026-07-09T17:24:53.818Z"
     },
     {
       "id": "419896a5-bed0-4464-b74a-a84baaa99697",
-      "slug": "nvzl-rtspvt-mrvkz-shty-lytr-884rty",
-      "name": "נוזל רצפות מרוכז שתי ליטר",
+      "slug": "nvzl-rtspvt-mrvkz-shty-lytr-tats-f7wofp",
+      "name": "נוזל רצפות מרוכז שתי ליטר טאצ'",
       "name_translations": {},
-      "description": "<p>נוזל רצפות מרוכז שתי ליטר </p>",
+      "description": "<p>נוזל רצפות מרוכז שתי ליטר טאצ' </p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/nvzl-rtspvt-mrvkz-shty-lytr-884rty",
+      "url": "https://yotzimmehakelim.zappy5.app/product/nvzl-rtspvt-mrvkz-shty-lytr-tats-f7wofp",
       "categories": [],
-      "updated_at": "2026-07-09T17:21:18.982Z"
+      "updated_at": "2026-07-09T17:24:25.907Z"
     },
     {
       "id": "858fa5fe-a119-4483-ad03-ae657f871467",

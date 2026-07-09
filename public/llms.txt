@@ -58,18 +58,18 @@ Information about WCAG compliance and accessibility features.
 
 **Total active products: 39**
 
-### מנקה רצפות ארבע ליטר 
-https://yotzimmehakelim.zappy5.app/product/mnkh-rtspvt-arba-lytr-f5ttj9
+### מנקה רצפות ארבע ליטר טאצ'
+https://yotzimmehakelim.zappy5.app/product/mnkh-rtspvt-arba-lytr-tats-1qp82g
 - Price: 0.00 ILS
 - Availability: In stock
-- Description: מנקה רצפות ארבע ליטר
+- Description: מנקה רצפות ארבע ליטר טאצ'
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783617709467-j3tfa.webp
 
-### נוזל רצפות מרוכז שתי ליטר
-https://yotzimmehakelim.zappy5.app/product/nvzl-rtspvt-mrvkz-shty-lytr-884rty
+### נוזל רצפות מרוכז שתי ליטר טאצ'
+https://yotzimmehakelim.zappy5.app/product/nvzl-rtspvt-mrvkz-shty-lytr-tats-f7wofp
 - Price: 0.00 ILS
 - Availability: In stock
-- Description: נוזל רצפות מרוכז שתי ליטר
+- Description: נוזל רצפות מרוכז שתי ליטר טאצ'
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783617627569-jsbi1a.webp
 
 ### אקונומיקה ארבע ליטר טאצ'
