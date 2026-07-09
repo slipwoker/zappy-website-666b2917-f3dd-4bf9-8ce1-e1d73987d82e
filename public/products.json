@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T15:33:09.894Z",
+  "generated_at": "2026-07-09T15:52:50.980Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "ce41cec1-267e-45bf-9679-4e862bef4964",
+      "slug": "tslcht-ptl-xzdsij",
+      "name": "צלחת פטל",
+      "name_translations": {},
+      "description": "<p>צלחת פטל גודל 7 9 10 קיים בשקוף נצנצים זהב ופס זהב , שקוף ופס זהב קרם ופס זהב לבן ופס זהב</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783612131121-nbcki3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-ptl-xzdsij",
+      "categories": [],
+      "updated_at": "2026-07-09T15:52:19.596Z"
+    },
     {
       "id": "7d10a0bd-ad2f-487f-98ba-4bcbeb4f2ba0",
       "slug": "kvsvt-chd-pamy-lshtyh-krh-15i9ds",
