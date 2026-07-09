@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T16:34:36.270Z",
+  "generated_at": "2026-07-09T16:35:47.203Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 10,
+  "count": 11,
   "products": [
+    {
+      "id": "a5fc23f5-cf55-4194-9dab-b387d50b37d2",
+      "slug": "tslcht-svhv-tsba-shkvp-ha3j5q",
+      "name": "צלחת סוהו צבע שקוף ",
+      "name_translations": {},
+      "description": "<p>צלחת סוהו צבע שקוף </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783614892509-ikdv2f.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-svhv-tsba-shkvp-ha3j5q",
+      "categories": [],
+      "updated_at": "2026-07-09T16:35:14.902Z"
+    },
     {
       "id": "c50300b1-c1ba-42a0-94a6-949fcf4080af",
       "slug": "tslcht-svhv-tsba-krm-pzxvwh",
