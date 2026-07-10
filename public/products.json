@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:24:37.964Z",
+  "generated_at": "2026-07-10T09:26:32.754Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 103,
+  "count": 104,
   "products": [
+    {
+      "id": "6e1866cd-3987-4005-a8bb-3209a08dac02",
+      "slug": "kvpsavt-lachsvn-gdlym-150-grm-250-grm-500-grm-vx9h7a",
+      "name": "קופסאות לאחסון גדלים 150 גרם 250 גרם 500 גרם ",
+      "name_translations": {},
+      "description": "<p>קופסאות לאחסון גדלים 150 גרם 250 גרם 500 גרם </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675495027-9tvxl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-lachsvn-gdlym-150-grm-250-grm-500-grm-vx9h7a",
+      "categories": [],
+      "updated_at": "2026-07-10T09:26:00.950Z"
+    },
     {
       "id": "3aac0db8-98ed-492c-9578-d416fc903f98",
       "slug": "tslchvt-akvlvgyvt-gvdl-10-9-7-lptnyh-mrkyh-azby8u",
