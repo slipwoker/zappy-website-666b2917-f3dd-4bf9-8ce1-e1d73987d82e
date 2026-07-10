@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:46:50.160Z",
+  "generated_at": "2026-07-10T08:48:18.454Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 92,
+  "count": 93,
   "products": [
+    {
+      "id": "019381b2-4d1b-4270-a764-0455e8325e0e",
+      "slug": "tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-k-83-g-35-sm-140-myl-bwqjho",
+      "name": "תבנית אלומיניום שחור זהב פלוס מכסה ק. 8.3 ג. 3.5 ס''מ 140 מיל",
+      "name_translations": {},
+      "description": "<p>תבנית אלומיניום שחור זהב פלוס מכסה ק. 8.3 ג. 3.5 ס''מ 140 מיל</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783673255838-v94o3nh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-k-83-g-35-sm-140-myl-bwqjho",
+      "categories": [],
+      "updated_at": "2026-07-10T08:47:46.632Z"
+    },
     {
       "id": "32f1bc77-f016-474f-a3ab-bb9c3aa98681",
       "slug": "kvnvs-mats-a-13-sm-3pdyjb",
