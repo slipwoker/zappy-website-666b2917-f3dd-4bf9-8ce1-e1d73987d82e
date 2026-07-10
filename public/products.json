@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:39:44.207Z",
+  "generated_at": "2026-07-10T07:41:00.735Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 59,
+  "count": 60,
   "products": [
+    {
+      "id": "24017936-802a-4ab0-a57c-ebae605a0acd",
+      "slug": "kryvt-brzl-lkrtsvp-chzk-3-ychydvt-m5jds6",
+      "name": "כריות ברזל לקרצוף חזק 3 יחידות ",
+      "name_translations": {},
+      "description": "<p>כריות ברזל לקרצוף חזק 3 יחידות </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669181231-df6a7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kryvt-brzl-lkrtsvp-chzk-3-ychydvt-m5jds6",
+      "categories": [],
+      "updated_at": "2026-07-10T07:40:29.062Z"
+    },
     {
       "id": "7d5e7a8c-f05a-422e-80aa-45ef6954bca2",
       "slug": "kryvt-ypnyvt-tsbavnyvt-6-ychydvt-qu9fb1",
