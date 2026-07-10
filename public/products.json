@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:20:07.190Z",
+  "generated_at": "2026-07-10T09:20:57.685Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 100,
+  "count": 101,
   "products": [
+    {
+      "id": "65684c1f-3fe1-45d3-b4e0-5bcba89848a6",
+      "slug": "tslcht-tsba-lbn-gvdl-10-9-7-ksrvl-mrkyh-v484yx",
+      "name": "צלחת צבע לבן גודל 10 9 7 קסרול מרקיה ",
+      "name_translations": {},
+      "description": "<p>צלחת צבע לבן גודל 10 9 7 קסרול מרקיה </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675198842-oc4rii.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-tsba-lbn-gvdl-10-9-7-ksrvl-mrkyh-v484yx",
+      "categories": [],
+      "updated_at": "2026-07-10T09:20:25.988Z"
+    },
     {
       "id": "77ce448c-34d0-4e7e-9337-a6a2946a198c",
       "slug": "tslcht-tsba-shkvp-gvdl-10-9-7-ksrvl-mrkyh-aqjji6",
