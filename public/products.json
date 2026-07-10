@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:48:18.454Z",
+  "generated_at": "2026-07-10T08:49:28.693Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 93,
+  "count": 94,
   "products": [
+    {
+      "id": "eccce516-0674-4a35-8269-850708edebef",
+      "slug": "tbnyt-alvmynyvm-lb-shchvr-zhb-plvs-mksh-270-myl-ifwakj",
+      "name": "תבנית אלומיניום לב שחור זהב פלוס מכסה 270 מיל",
+      "name_translations": {},
+      "description": "<p>תבנית אלומיניום לב שחור זהב פלוס מכסה 270 </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783673319493-i5me8b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-lb-shchvr-zhb-plvs-mksh-270-myl-ifwakj",
+      "categories": [],
+      "updated_at": "2026-07-10T08:48:57.110Z"
+    },
     {
       "id": "019381b2-4d1b-4270-a764-0455e8325e0e",
       "slug": "tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-k-83-g-35-sm-140-myl-bwqjho",
