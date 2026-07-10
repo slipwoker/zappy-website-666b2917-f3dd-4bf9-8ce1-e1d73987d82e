@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:44:21.302Z",
+  "generated_at": "2026-07-10T07:45:16.294Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 62,
+  "count": 63,
   "products": [
+    {
+      "id": "a4f4dc0d-7560-4f7d-b220-a9d0c80438fa",
+      "slug": "tsmr-pldh-200-grm-xdgeyw",
+      "name": "צמר פלדה 200 גרם ",
+      "name_translations": {},
+      "description": "<p>צמר פלדה 200 גרם </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669454376-qxs8uh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tsmr-pldh-200-grm-xdgeyw",
+      "categories": [],
+      "updated_at": "2026-07-10T07:44:44.953Z"
+    },
     {
       "id": "b528f76b-bed0-4949-96d4-016810a7d550",
       "slug": "spvg-hpla-zkvf3p",
