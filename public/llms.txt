@@ -59,10 +59,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 85**
 
 ### פלטה דמוי עץ על רגלים ק. 25 ג. 9 ס''מ 
-https://yotzimmehakelim.zappy5.app/product/plth-dmvy-ats-al-rglym-k-25-g-9-sm-df7v9u
+https://yotzimmehakelim.zappy5.app/product/plth-dmvy-ats-al-rglym-k-25-g-9-sm-qvyied
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: פלטה דמוי עץ על רגלים ק. 25 ג. 9 ס''מ
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783672642298-ej8uvu.webp
 
 ### פלטה דמוי עץ על רגלים ק. 34 ג. 2.5 ס''מ 
 https://yotzimmehakelim.zappy5.app/product/plth-dmvy-ats-al-rglym-k-34-g-25-sm-9pvp42

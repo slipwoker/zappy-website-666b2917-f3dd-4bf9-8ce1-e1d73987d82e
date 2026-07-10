@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:37:17.667Z",
+  "generated_at": "2026-07-10T08:38:04.082Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 85,
   "products": [
     {
       "id": "3b847554-9101-40f4-b10a-96e647c8a6cc",
-      "slug": "plth-dmvy-ats-al-rglym-k-25-g-9-sm-df7v9u",
+      "slug": "plth-dmvy-ats-al-rglym-k-25-g-9-sm-qvyied",
       "name": "פלטה דמוי עץ על רגלים ק. 25 ג. 9 ס''מ ",
       "name_translations": {},
-      "description": "<p>פלטה דמוי עץ על רגלים ק. 25 ג. 9 ס''מ </p>",
+      "description": "<p>פלטה דמוי עץ על רגלים ק. 25 ג. 9 ס''מ</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -18,12 +18,14 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783672642298-ej8uvu.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/plth-dmvy-ats-al-rglym-k-25-g-9-sm-df7v9u",
+      "url": "https://yotzimmehakelim.zappy5.app/product/plth-dmvy-ats-al-rglym-k-25-g-9-sm-qvyied",
       "categories": [],
-      "updated_at": "2026-07-10T08:36:46.067Z"
+      "updated_at": "2026-07-10T08:37:32.174Z"
     },
     {
       "id": "9ffad657-3eb8-49a6-9d04-fd28b57092de",
