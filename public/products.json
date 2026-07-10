@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:23:21.671Z",
+  "generated_at": "2026-07-10T07:25:48.138Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 54,
+  "count": 55,
   "products": [
+    {
+      "id": "f7510837-7600-4cca-b748-22b15822b542",
+      "slug": "shkyvt-ashph-bglyl-7590-25-ychydvt-t79l03",
+      "name": "שקיות אשפה בגליל 75/90  25 יחידות ",
+      "name_translations": {},
+      "description": "<p>שקיות אשפה בגליל 75/90  25 יחידות </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783668241609-6cd0h8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/shkyvt-ashph-bglyl-7590-25-ychydvt-t79l03",
+      "categories": [],
+      "updated_at": "2026-07-10T07:25:16.482Z"
+    },
     {
       "id": "6c619c52-a8f8-47cf-a551-c52d596ffc50",
       "slug": "shkyvt-gvpyyh-tsbavnyvt-5lyfde",
