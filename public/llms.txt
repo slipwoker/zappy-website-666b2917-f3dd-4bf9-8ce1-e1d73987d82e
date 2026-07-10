@@ -72,11 +72,11 @@ https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-mrvba-tsba-ksp-ecyxpr
 - Description: מגשי קרטון מרובע צבע כסף
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783675869678-nnyslr.webp
 
-### מגשי קרטון צבע זהב 
-https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-zhb-pqb69t
+### מגשי קרטון מרובע צבע זהב 
+https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-mrvba-tsba-zhb-ftvsl8
 - Price: 0.00 ILS
 - Availability: In stock
-- Description: מגשי קרטון צבע זהב
+- Description: מגשי קרטון מרובע צבע זהב
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783675806585-7jp4js.webp
 
 ### קופסאות לאחסון גודל 500 מיל  ליטר וליטר 200
