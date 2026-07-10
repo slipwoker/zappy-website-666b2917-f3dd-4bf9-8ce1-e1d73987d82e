@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:33:13.788Z",
+  "generated_at": "2026-07-10T09:34:10.889Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 109,
@@ -29,10 +29,10 @@
     },
     {
       "id": "c2cfc951-60cb-404f-ba43-457d9031259a",
-      "slug": "mgshy-krtvn-tsba-ksp-xek7tc",
-      "name": "מגשי קרטון צבע כסף ",
+      "slug": "mgshy-krtvn-mrvba-tsba-ksp-ecyxpr",
+      "name": "מגשי קרטון מרובע צבע כסף ",
       "name_translations": {},
-      "description": "<p>מגשי קרטון צבע כסף </p>",
+      "description": "<p>מגשי קרטון מרובע צבע כסף</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -45,9 +45,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-ksp-xek7tc",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-mrvba-tsba-ksp-ecyxpr",
       "categories": [],
-      "updated_at": "2026-07-10T09:31:31.789Z"
+      "updated_at": "2026-07-10T09:33:39.607Z"
     },
     {
       "id": "13777299-3c63-41d3-b3a3-96a0e7a17121",

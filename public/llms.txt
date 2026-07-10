@@ -65,11 +65,11 @@ https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-agvl-tsba-zhb-ssrxyy
 - Description: מגשי קרטון עגול צבע זהב
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783675922980-89gyl.webp
 
-### מגשי קרטון צבע כסף 
-https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-ksp-xek7tc
+### מגשי קרטון מרובע צבע כסף 
+https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-mrvba-tsba-ksp-ecyxpr
 - Price: 0.00 ILS
 - Availability: In stock
-- Description: מגשי קרטון צבע כסף
+- Description: מגשי קרטון מרובע צבע כסף
 - Image: https://yotzimmehakelim.zappy5.app/assets/product-1783675869678-nnyslr.webp
 
 ### מגשי קרטון צבע זהב 
