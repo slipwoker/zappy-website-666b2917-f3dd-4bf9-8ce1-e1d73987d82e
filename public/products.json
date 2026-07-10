@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:36:14.326Z",
+  "generated_at": "2026-07-10T07:38:16.546Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 58,
+  "count": 59,
   "products": [
+    {
+      "id": "7d5e7a8c-f05a-422e-80aa-45ef6954bca2",
+      "slug": "6-ychydvt-kryvt-ypnyvt-tsbavnyvt-d77d9n",
+      "name": "6 יחידות כריות יפניות צבעוניות",
+      "name_translations": {},
+      "description": "<p>כריות יפניות צבעוניות 6 יחידות</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783668993829-hctf9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/6-ychydvt-kryvt-ypnyvt-tsbavnyvt-d77d9n",
+      "categories": [],
+      "updated_at": "2026-07-10T07:38:14.917Z"
+    },
     {
       "id": "cdf2e1ff-5cbf-458d-8567-1c9b1580c29f",
       "slug": "kryvt-nykvy-lla-chshsh-schyth-4-ychydvt-t8sdvy",
