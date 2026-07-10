@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:41:45.908Z",
+  "generated_at": "2026-07-10T08:43:12.026Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 88,
+  "count": 89,
   "products": [
+    {
+      "id": "6815ccb0-a4f3-439c-9e55-fcdae99abc3d",
+      "slug": "kart-syrh-mats-25-ychydvt-a-1358-sm-8a1bb0",
+      "name": "קערת סירה מעץ 25 יחידות א. 13.5/8 ס''מ ",
+      "name_translations": {},
+      "description": "<p>קערת סירה מעץ 25 יחידות א. 13.5/8 ס''מ </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783672948744-5azu3b.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kart-syrh-mats-25-ychydvt-a-1358-sm-8a1bb0",
+      "categories": [],
+      "updated_at": "2026-07-10T08:42:38.779Z"
+    },
     {
       "id": "72794836-bc4f-41e4-84d0-df28b46fe747",
       "slug": "tslcht-anpy-dkl-k-15-sm-quw1n0",
