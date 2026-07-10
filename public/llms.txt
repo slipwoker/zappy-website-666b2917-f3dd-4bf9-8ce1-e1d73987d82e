@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 41**
+**Total active products: 42**
+
+### קופסא 1000 מיל ארוז 25
+https://yotzimmehakelim.zappy5.app/product/kvpsa-1000-myl-arvz-25-8ezl8x
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: קופסא 1000 מעל ארוז 25
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783667159796-sdoqs.webp
 
 ### צלחת פאלאס ארוז 125 גודל 9
 https://yotzimmehakelim.zappy5.app/product/tslcht-palas-arvz-125-gvdl-9-mdpux9

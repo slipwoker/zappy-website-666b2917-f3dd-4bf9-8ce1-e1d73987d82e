@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:01:09.961Z",
+  "generated_at": "2026-07-10T07:08:09.605Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 41,
+  "count": 42,
   "products": [
+    {
+      "id": "8c517545-e105-4ef4-b24c-432ad242ca13",
+      "slug": "kvpsa-1000-myl-arvz-25-8ezl8x",
+      "name": "קופסא 1000 מיל ארוז 25",
+      "name_translations": {},
+      "description": "<p>קופסא 1000 מעל ארוז 25 </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783667159796-sdoqs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsa-1000-myl-arvz-25-8ezl8x",
+      "categories": [],
+      "updated_at": "2026-07-10T07:07:38.017Z"
+    },
     {
       "id": "286468c0-c453-41cb-a57f-ab2155b8a336",
       "slug": "tslcht-palas-arvz-125-gvdl-9-mdpux9",
