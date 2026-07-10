@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:13:18.591Z",
+  "generated_at": "2026-07-10T07:14:27.219Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 46,
+  "count": 47,
   "products": [
+    {
+      "id": "3b0bb365-14db-4b7f-8c16-20b8663108fc",
+      "slug": "karh-lslt-tsba-krm-arvz-10-ack75v",
+      "name": "קערה לסלט צבע קרם ארוז 10 ",
+      "name_translations": {},
+      "description": "<p>קערה לסלט צבע קרם ארוז 10 </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783667594200-j4q8xq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/karh-lslt-tsba-krm-arvz-10-ack75v",
+      "categories": [],
+      "updated_at": "2026-07-10T07:13:55.281Z"
+    },
     {
       "id": "293152d1-df2b-404d-87f2-97064b8521c9",
       "slug": "karh-lslt-tsba-zhb-arvz-10-xs63il",
