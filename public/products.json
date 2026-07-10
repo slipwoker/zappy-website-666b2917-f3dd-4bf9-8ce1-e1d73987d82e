@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:43:05.726Z",
+  "generated_at": "2026-07-10T07:44:21.302Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 61,
+  "count": 62,
   "products": [
+    {
+      "id": "b528f76b-bed0-4949-96d4-016810a7d550",
+      "slug": "spvg-hpla-zkvf3p",
+      "name": "ספוג הפלא ",
+      "name_translations": {},
+      "description": "<p>ספוג הפלא </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669402418-v6xtj9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/spvg-hpla-zkvf3p",
+      "categories": [],
+      "updated_at": "2026-07-10T07:43:49.768Z"
+    },
     {
       "id": "506aa84c-2fe6-476b-805e-e1b950f9c289",
       "slug": "mtlyvt-mykrvpyybr-rkvt-vabvt-lrtsph-2-ychydvt-xk7fs8",
