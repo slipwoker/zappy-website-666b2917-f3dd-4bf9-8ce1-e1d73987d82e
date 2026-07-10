@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:37:36.029Z",
+  "generated_at": "2026-07-10T10:08:14.344Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 112,
   "products": [
     {
       "id": "97f8bc34-0753-4958-a958-bdbc94c103d8",
-      "slug": "kvsvt-mrvkayt-mavtr-shchvr-ftrbvo",
+      "slug": "kvsvt-mrvkayt-mavtr-shchvr-ixjdm6",
       "name": "כוסות מרוקאית מעוטר שחור",
       "name_translations": {},
       "description": "<p>כוסות מרוקאית מעוטר שחור</p>",
@@ -23,9 +23,9 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-mrvkayt-mavtr-shchvr-ftrbvo",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-mrvkayt-mavtr-shchvr-ixjdm6",
       "categories": [],
-      "updated_at": "2026-07-10T09:36:58.299Z"
+      "updated_at": "2026-07-10T10:07:42.195Z"
     },
     {
       "id": "25d7df87-97e2-4041-8db0-cff6b5ccbb59",
