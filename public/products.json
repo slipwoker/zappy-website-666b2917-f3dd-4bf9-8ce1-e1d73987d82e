@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:47:22.248Z",
+  "generated_at": "2026-07-10T07:49:07.498Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 65,
+  "count": 66,
   "products": [
+    {
+      "id": "30bed379-058b-49f6-a9f9-9737a9543e1f",
+      "slug": "svpr-mgbt-xl-81fgre",
+      "name": "סופר מגבת XL",
+      "name_translations": {},
+      "description": "<p>סופר מגבת </p><p>XL</p><p><br></p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669677193-wenjdi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/svpr-mgbt-xl-81fgre",
+      "categories": [],
+      "updated_at": "2026-07-10T07:48:35.388Z"
+    },
     {
       "id": "3bf8be5f-8c5f-4bda-81d6-c9725624e708",
       "slug": "mtlyvt-mykrvpyybr-lmshtchym-5-ychydvt-sag3rk",
