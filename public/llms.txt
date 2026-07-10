@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 107**
+**Total active products: 108**
+
+### מגשי קרטון צבע כסף 
+https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-ksp-xek7tc
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: מגשי קרטון צבע כסף
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783675869678-nnyslr.webp
 
 ### מגשי קרטון צבע זהב 
 https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-zhb-pqb69t
