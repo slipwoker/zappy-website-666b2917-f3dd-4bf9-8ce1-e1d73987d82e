@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:50:45.014Z",
+  "generated_at": "2026-07-10T08:51:54.922Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 95,
+  "count": 96,
   "products": [
+    {
+      "id": "b0051762-c5d9-4a48-833f-ea16197a659d",
+      "slug": "tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-900-myl-wecbz4",
+      "name": "תבנית אלומיניום שחור זהב פלוס מכסה 900 מיל",
+      "name_translations": {},
+      "description": "<p>תבנית אלומיניום שחור זהב פלוס מכסה 900 מיל</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783673474434-vi2zl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-900-myl-wecbz4",
+      "categories": [],
+      "updated_at": "2026-07-10T08:51:23.137Z"
+    },
     {
       "id": "82bc8bcb-f882-4b41-af68-3e8e794e36df",
       "slug": "tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-250-myl-mkqyke",
