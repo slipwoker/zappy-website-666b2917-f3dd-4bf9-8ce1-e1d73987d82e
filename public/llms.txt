@@ -59,10 +59,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 88**
 
 ### צלחת ענפי דקל ק. 15 ס''מ 
-https://yotzimmehakelim.zappy5.app/product/tslcht-anpy-dkl-k-15-sm-u1r0ca
+https://yotzimmehakelim.zappy5.app/product/tslcht-anpy-dkl-k-15-sm-quw1n0
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: צלחת ענפי דקל ק. 15 ס''מ
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783672860603-lti5oa.webp
 
 ### צלחת מענפי דקל ק. 23 ס''מ 
 https://yotzimmehakelim.zappy5.app/product/tslcht-manpy-dkl-k-23-sm-fhmx2d
