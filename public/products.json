@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:31:24.572Z",
+  "generated_at": "2026-07-10T07:36:14.326Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 57,
+  "count": 58,
   "products": [
+    {
+      "id": "cdf2e1ff-5cbf-458d-8567-1c9b1580c29f",
+      "slug": "kryvt-nykvy-lla-chshsh-schyth-4-ychydvt-t8sdvy",
+      "name": "כריות ניקוי ללא חשש סחיטה 4 יחידות",
+      "name_translations": {},
+      "description": "<p>כריות ניקוי ללא חשש סחיטה 4 יחידות </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783668698692-qxr7cp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kryvt-nykvy-lla-chshsh-schyth-4-ychydvt-t8sdvy",
+      "categories": [],
+      "updated_at": "2026-07-10T07:35:42.257Z"
+    },
     {
       "id": "211f70c0-7f01-458c-9f81-fe691ee45f39",
       "slug": "kppvt-nytrly-shchvrvt-lla-abkh-mydvt-s-m-l-xl-idv99d",
