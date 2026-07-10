@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:45:16.294Z",
+  "generated_at": "2026-07-10T07:46:21.580Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 63,
+  "count": 64,
   "products": [
+    {
+      "id": "40ac2eac-49f0-4b49-9d88-fce16673d33f",
+      "slug": "mtlyvt-mykrvpyybr-lrtsph-3-ychydvt-b3zffi",
+      "name": "מטליות מיקרופייבר לרצפה 3 יחידות ",
+      "name_translations": {},
+      "description": "<p>מטליות מיקרופייבר לרצפה 3 יחידות </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669518891-n6poms.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mtlyvt-mykrvpyybr-lrtsph-3-ychydvt-b3zffi",
+      "categories": [],
+      "updated_at": "2026-07-10T07:45:49.980Z"
+    },
     {
       "id": "a4f4dc0d-7560-4f7d-b220-a9d0c80438fa",
       "slug": "tsmr-pldh-200-grm-xdgeyw",
