@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:14:26.445Z",
+  "generated_at": "2026-07-10T08:16:06.589Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 77,
+  "count": 78,
   "products": [
+    {
+      "id": "48a9ceb8-0a62-4ac6-8d0f-52750afa307b",
+      "slug": "mgsh-ats-2375-25-sm-2sip9q",
+      "name": "מגש עץ 23/75  2.5 סמ",
+      "name_translations": {},
+      "description": "<p>מגש עץ 23/75  2.5 סמ</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783671293849-xb2lr3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgsh-ats-2375-25-sm-2sip9q",
+      "categories": [],
+      "updated_at": "2026-07-10T08:15:34.951Z"
+    },
     {
       "id": "1874e7f7-fbf5-484e-ac1b-3babe8cf8819",
       "slug": "bvnbvnyrh-myny-plstyk-dmvy-krstl-k-5-g-7-sm-6-ychydvt-lrrvri",
