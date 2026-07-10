@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:30:08.041Z",
+  "generated_at": "2026-07-10T09:31:19.815Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 106,
+  "count": 107,
   "products": [
+    {
+      "id": "13777299-3c63-41d3-b3a3-96a0e7a17121",
+      "slug": "mgshy-krtvn-tsba-zhb-pqb69t",
+      "name": "מגשי קרטון צבע זהב ",
+      "name_translations": {},
+      "description": "<p>מגשי קרטון צבע זהב </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675806585-7jp4js.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgshy-krtvn-tsba-zhb-pqb69t",
+      "categories": [],
+      "updated_at": "2026-07-10T09:30:48.459Z"
+    },
     {
       "id": "8fca514b-c9fd-4a09-9712-6e52142d7b26",
       "slug": "kvpsavt-lachsvn-gvdl-500-myl-lytr-vlytr-200-mwcj6q",
