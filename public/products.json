@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:19:10.523Z",
+  "generated_at": "2026-07-10T09:20:07.190Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 99,
+  "count": 100,
   "products": [
+    {
+      "id": "77ce448c-34d0-4e7e-9337-a6a2946a198c",
+      "slug": "tslcht-tsba-shkvp-gvdl-10-9-7-ksrvl-mrkyh-aqjji6",
+      "name": "צלחת צבע שקוף גודל 10 9 7 קסרול מרקיה ",
+      "name_translations": {},
+      "description": "<p>צלחת צבע שקוף גודל 10 9 7 קסרול מרקיה </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675142514-5qmtqa.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-tsba-shkvp-gvdl-10-9-7-ksrvl-mrkyh-aqjji6",
+      "categories": [],
+      "updated_at": "2026-07-10T09:19:35.718Z"
+    },
     {
       "id": "564d8369-4bad-41f5-9416-336019fef525",
       "slug": "tslcht-tsba-vrvd-gvdl-10-9-7-mrkyh-ksrvl-719xe1",
