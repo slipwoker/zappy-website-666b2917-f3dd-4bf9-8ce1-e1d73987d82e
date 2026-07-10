@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:53:07.650Z",
+  "generated_at": "2026-07-10T09:18:00.240Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 97,
+  "count": 98,
   "products": [
+    {
+      "id": "e99b7a5d-368f-4b18-94fc-8f47f9bc99bf",
+      "slug": "tslcht-tsba-pystvk-gvdl-10-9-7-ksrvl-mrkyh-ig33yw",
+      "name": "צלחת צבע פיסטוק גודל 10 9 7 קסרול מרקיה ",
+      "name_translations": {},
+      "description": "<p>צלחת צבע פיסטוק גודל 10 9 7 קסרול מרקיה</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783674992938-1921zhh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-tsba-pystvk-gvdl-10-9-7-ksrvl-mrkyh-ig33yw",
+      "categories": [],
+      "updated_at": "2026-07-10T09:17:28.294Z"
+    },
     {
       "id": "587374c3-3c03-435b-bad7-805874da3354",
       "slug": "tbnyt-alvmynyvm-shchvr-zhb-plvs-mksh-2000-myl-xmu5z5",
