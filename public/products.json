@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:54:03.335Z",
+  "generated_at": "2026-07-10T07:56:12.104Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 69,
+  "count": 70,
   "products": [
+    {
+      "id": "b3154ab9-5fb6-4492-a92c-42b3182d93dc",
+      "slug": "tsntsnt-plstyk-mrvbat-r-93-g-105-sm-650-myl-2uefbz",
+      "name": "צנצנת פלסטיק מרובעת ר. 9.3 ג. 10.5 ס''מ 650 מיל",
+      "name_translations": {},
+      "description": "<p>צנצנת פלסטיק מרובעת ר. 9.3 ג. 10.5 ס''מ 650 מיל</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783670058423-pcz6nb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tsntsnt-plstyk-mrvbat-r-93-g-105-sm-650-myl-2uefbz",
+      "categories": [],
+      "updated_at": "2026-07-10T07:55:40.647Z"
+    },
     {
       "id": "473cb395-04fc-449b-a873-3032e3945126",
       "slug": "kly-plstyk-agvl-k-55-sm-mavtr-zhb-6-ychydvt-htl11t",
