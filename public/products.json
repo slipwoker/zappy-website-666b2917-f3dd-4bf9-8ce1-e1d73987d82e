@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:15:50.891Z",
+  "generated_at": "2026-07-10T07:16:53.258Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 48,
+  "count": 49,
   "products": [
+    {
+      "id": "ede4d03e-fcba-475e-89dc-b5e307db594f",
+      "slug": "shsh-mgbvt-mtbch-shsh-bsh-dwo2ay",
+      "name": "שש מגבות מטבח שש בש",
+      "name_translations": {},
+      "description": "<p>6 מגבות מטבח שש בש </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783667743548-42fwrn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/shsh-mgbvt-mtbch-shsh-bsh-dwo2ay",
+      "categories": [],
+      "updated_at": "2026-07-10T07:16:21.880Z"
+    },
     {
       "id": "b85bd777-64e3-4aa6-abf8-4cf1daa60d89",
       "slug": "mthry-avvyr-lmtkn-avtvmty-vag9wk",
