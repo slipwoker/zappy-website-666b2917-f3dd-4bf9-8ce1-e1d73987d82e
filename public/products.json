@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:11:00.118Z",
+  "generated_at": "2026-07-10T07:12:15.458Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 44,
+  "count": 45,
   "products": [
+    {
+      "id": "26626256-7b95-42d5-92f0-420f4f411fa9",
+      "slug": "karh-lslt-tsba-lbn-arvz-10-f67v3g",
+      "name": "קערה לסלט צבע לבן ארוז 10",
+      "name_translations": {},
+      "description": "<p>קערה לסלט צבע לבן ארוז 10 </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783667465780-fgido4h.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/karh-lslt-tsba-lbn-arvz-10-f67v3g",
+      "categories": [],
+      "updated_at": "2026-07-10T07:11:43.515Z"
+    },
     {
       "id": "de713d8f-4c4b-40f0-88cf-ae6e8c5cdb0c",
       "slug": "kvpsa-500-myl-arvz-50-r4u9nn",

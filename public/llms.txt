@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 44**
+**Total active products: 45**
+
+### קערה לסלט צבע לבן ארוז 10
+https://yotzimmehakelim.zappy5.app/product/karh-lslt-tsba-lbn-arvz-10-f67v3g
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: קערה לסלט צבע לבן ארוז 10
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783667465780-fgido4h.webp
 
 ### קופסא 500 מיל ארוז 50 
 https://yotzimmehakelim.zappy5.app/product/kvpsa-500-myl-arvz-50-r4u9nn
