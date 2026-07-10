@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:58:00.871Z",
+  "generated_at": "2026-07-10T08:02:40.951Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 71,
+  "count": 72,
   "products": [
+    {
+      "id": "5b504b17-ad0f-4881-9d9a-ad63ea268948",
+      "slug": "bkbvk-plstyk-pkk-mtkt-g-8-29-sm-30-myl-k05j29",
+      "name": "בקבוק פלסטיק פקק מתכת ג. 8  2.9 ס''מ 30 מיל",
+      "name_translations": {},
+      "description": "<p>בקבוק פלסטיק פקק מתכת ג. 8  2.9 ס''מ 30 מיל</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783670411259-fyeyv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/bkbvk-plstyk-pkk-mtkt-g-8-29-sm-30-myl-k05j29",
+      "categories": [],
+      "updated_at": "2026-07-10T08:02:09.469Z"
+    },
     {
       "id": "5e7458bd-17ea-4ef7-bbb7-8ed690ac4114",
       "slug": "tsntsnt-plstyk-htblynym-mksh-mchvrr-k-65-g-85-sm-200-myl-yfmpdl",
