@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 111**
+**Total active products: 112**
+
+### כוסות מרוקאית מעוטר שחור
+https://yotzimmehakelim.zappy5.app/product/kvsvt-mrvkayt-mavtr-shchvr-ftrbvo
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: כוסות מרוקאית מעוטר שחור
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783676197079-gecyni.webp
 
 ### כוסות מרוקאית מעוטר זהב
 https://yotzimmehakelim.zappy5.app/product/kvsvt-mrvkayt-mavtr-zhb-4vu00c
