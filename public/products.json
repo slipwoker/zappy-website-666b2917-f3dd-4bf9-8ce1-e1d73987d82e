@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:27:55.179Z",
+  "generated_at": "2026-07-10T09:30:08.041Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 105,
+  "count": 106,
   "products": [
+    {
+      "id": "8fca514b-c9fd-4a09-9712-6e52142d7b26",
+      "slug": "kvpsavt-lachsvn-gvdl-500-myl-lytr-vlytr-200-mwcj6q",
+      "name": "קופסאות לאחסון גודל 500 מיל  ליטר וליטר 200",
+      "name_translations": {},
+      "description": "<p>קופסאות לאחסון גודל 500 מיל  ליטר וליטר 200</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675668852-5obgeb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvpsavt-lachsvn-gvdl-500-myl-lytr-vlytr-200-mwcj6q",
+      "categories": [],
+      "updated_at": "2026-07-10T09:29:36.159Z"
+    },
     {
       "id": "d2624f3b-1d7e-4087-8b03-216c7b60fd19",
       "slug": "kvpsavt-lachsvn-gvdl-500-grm-vlytr-76r3mh",
