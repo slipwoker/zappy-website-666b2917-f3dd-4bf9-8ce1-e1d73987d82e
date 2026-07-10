@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:12:48.848Z",
+  "generated_at": "2026-07-10T08:14:26.445Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 76,
+  "count": 77,
   "products": [
+    {
+      "id": "1874e7f7-fbf5-484e-ac1b-3babe8cf8819",
+      "slug": "bvnbvnyrh-myny-plstyk-dmvy-krstl-k-5-g-7-sm-6-ychydvt-lrrvri",
+      "name": "בונבונירה מיני פלסטיק דמוי קרסטל ק. 5 ג. 7 ס''מ 6 יחידות ",
+      "name_translations": {},
+      "description": "<p>בונבונירה מיני פלסטיק דמוי קרסטל ק. 5 ג. 7 ס''מ 6 יחידות </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783671169959-2i7jp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/bvnbvnyrh-myny-plstyk-dmvy-krstl-k-5-g-7-sm-6-ychydvt-lrrvri",
+      "categories": [],
+      "updated_at": "2026-07-10T08:13:54.913Z"
+    },
     {
       "id": "5b90fa42-b54b-4f6f-8023-a8b6a5d0535a",
       "slug": "bvnbvnyrh-mplstyk-dmvy-krystl-k-55-g-7-sm-6-ychydvt-0qehiv",
