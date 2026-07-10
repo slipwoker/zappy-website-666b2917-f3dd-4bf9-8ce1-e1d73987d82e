@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:16:06.589Z",
+  "generated_at": "2026-07-10T08:18:57.794Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 78,
+  "count": 79,
   "products": [
+    {
+      "id": "329233ed-ab58-476a-81cc-c60850fd9828",
+      "slug": "mgsh-ats-1865-25-sm-zjeapk",
+      "name": "מגש עץ 18/65  2.5 ס''מ ",
+      "name_translations": {},
+      "description": "<p>מגש עץ 18/65  2.5 ס''מ </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783671367697-3oa5u.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgsh-ats-1865-25-sm-zjeapk",
+      "categories": [],
+      "updated_at": "2026-07-10T08:18:26.001Z"
+    },
     {
       "id": "48a9ceb8-0a62-4ac6-8d0f-52750afa307b",
       "slug": "mgsh-ats-2375-25-sm-2sip9q",
