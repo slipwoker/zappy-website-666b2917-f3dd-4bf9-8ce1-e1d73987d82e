@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:39:22.374Z",
+  "generated_at": "2026-07-10T08:40:18.718Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 86,
+  "count": 87,
   "products": [
+    {
+      "id": "f4cd9cac-d750-4167-89e0-29f0b576ac82",
+      "slug": "tslcht-manpy-dkl-k-23-sm-fhmx2d",
+      "name": "צלחת מענפי דקל ק. 23 ס''מ ",
+      "name_translations": {},
+      "description": "<p>צלחת מענפי דקל ק. 23 ס''מ </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783672777313-zbmurs.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-manpy-dkl-k-23-sm-fhmx2d",
+      "categories": [],
+      "updated_at": "2026-07-10T08:39:47.157Z"
+    },
     {
       "id": "2574dabf-119d-44a5-824d-98f50e3c8d66",
       "slug": "atsyts-nyyr-gybsnyt-g-15-sm-iuk4ez",
