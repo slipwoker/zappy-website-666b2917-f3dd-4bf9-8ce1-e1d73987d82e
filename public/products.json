@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T08:20:09.266Z",
+  "generated_at": "2026-07-10T08:31:08.879Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 80,
+  "count": 81,
   "products": [
+    {
+      "id": "ddd3fd66-66a5-4fd0-98a4-0d59e1801a1e",
+      "slug": "mgsh-ats-agvl-k-30-r38-g-25-sm-kogk38",
+      "name": "מגש עץ עגול ק. 30 ר.38 ג 2.5 סמ",
+      "name_translations": {},
+      "description": "<p>מגש עץ עגול ק. 30 ר.38 ג 2.5 סמ</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783672225260-47g38v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/mgsh-ats-agvl-k-30-r38-g-25-sm-kogk38",
+      "categories": [],
+      "updated_at": "2026-07-10T08:30:37.153Z"
+    },
     {
       "id": "4eafb0d2-cecc-4dce-8390-a8c6f745c76f",
       "slug": "mgsh-ats-1872-3-sm-8eu8e2",
