@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 47**
+**Total active products: 48**
+
+### מטהרי אוויר למתקן אוטומטי 
+https://yotzimmehakelim.zappy5.app/product/mthry-avvyr-lmtkn-avtvmty-vag9wk
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: מטהרי אוויר למתקן אוטומטי
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783667702193-911u8p.webp
 
 ### קערה לסלט צבע קרם ארוז 10 
 https://yotzimmehakelim.zappy5.app/product/karh-lslt-tsba-krm-arvz-10-ack75v
