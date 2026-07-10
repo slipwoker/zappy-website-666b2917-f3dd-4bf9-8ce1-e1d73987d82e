@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:29:01.371Z",
+  "generated_at": "2026-07-10T07:31:24.572Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 56,
+  "count": 57,
   "products": [
+    {
+      "id": "211f70c0-7f01-458c-9f81-fe691ee45f39",
+      "slug": "kppvt-nytrly-shchvrvt-lla-abkh-mydvt-s-m-l-xl-idv99d",
+      "name": "כפפות ניטרלי שחורות ללא אבקה מידות S M L XL",
+      "name_translations": {},
+      "description": "<p>כפפות ניטרלי שחורות ללא אבקה מידות</p><p> S M L XL</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783668543699-aw36yl.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kppvt-nytrly-shchvrvt-lla-abkh-mydvt-s-m-l-xl-idv99d",
+      "categories": [],
+      "updated_at": "2026-07-10T07:30:52.783Z"
+    },
     {
       "id": "76ca1826-2387-470b-8a5b-425765073fda",
       "slug": "shkyvt-ashph-bglyl-kvkb-7590-25-ychydvt-c9mokl",
