@@ -56,7 +56,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 42**
+**Total active products: 43**
+
+### קופסא 270 מיל ארוז 50
+https://yotzimmehakelim.zappy5.app/product/kvpsa-270-myl-arvz-50-8m3rc9
+- Price: 0.00 ILS
+- Availability: In stock
+- Description: קופסא 270 מעל ארוז 50
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783667310334-vwtea5.webp
 
 ### קופסא 1000 מיל ארוז 25
 https://yotzimmehakelim.zappy5.app/product/kvpsa-1000-myl-arvz-25-8ezl8x
