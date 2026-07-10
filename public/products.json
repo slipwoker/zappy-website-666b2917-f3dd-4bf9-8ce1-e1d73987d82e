@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:53:11.436Z",
+  "generated_at": "2026-07-10T07:54:03.335Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 69,
   "products": [
     {
       "id": "473cb395-04fc-449b-a873-3032e3945126",
-      "slug": "kly-plstyk-agvl-k-55-sm-mavtr-zhb-6-ychydvt-nqymya",
+      "slug": "kly-plstyk-agvl-k-55-sm-mavtr-zhb-6-ychydvt-htl11t",
       "name": "כלי פלסטיק עגול ק. 5.5 ס''מ מעוטר זהב 6 יחידות ",
       "name_translations": {},
-      "description": "<p>כלי פלסטיק עגול ק. 5.5 ס''מ מעוטר זהב 6 יחידות </p>",
+      "description": "<p>כלי פלסטיק עגול ק. 5.5 ס''מ מעוטר זהב 6 יחידות</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -18,12 +18,14 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669999279-umec7.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/kly-plstyk-agvl-k-55-sm-mavtr-zhb-6-ychydvt-nqymya",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kly-plstyk-agvl-k-55-sm-mavtr-zhb-6-ychydvt-htl11t",
       "categories": [],
-      "updated_at": "2026-07-10T07:52:39.585Z"
+      "updated_at": "2026-07-10T07:53:30.616Z"
     },
     {
       "id": "625ca214-2800-45b7-ab2d-5c3ebf84d6bd",
