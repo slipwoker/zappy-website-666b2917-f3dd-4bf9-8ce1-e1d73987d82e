@@ -59,10 +59,11 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 50**
 
 ### בקבוק מרסס 1 ליטר 
-https://yotzimmehakelim.zappy5.app/product/bkbvk-mrss-1-lytr-tv68be
+https://yotzimmehakelim.zappy5.app/product/bkbvk-mrss-1-lytr-ayes9l
 - Price: 0.00 ILS
 - Availability: In stock
 - Description: בקבוק מרסס 1 ליטר
+- Image: https://yotzimmehakelim.zappy5.app/assets/product-1783667856682-bm6ljg.webp
 
 ### שש מגבות מטבח שש בש
 https://yotzimmehakelim.zappy5.app/product/shsh-mgbvt-mtbch-shsh-bsh-dwo2ay

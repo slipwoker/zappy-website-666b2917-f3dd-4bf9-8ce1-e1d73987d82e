@@ -1,16 +1,16 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:17:42.048Z",
+  "generated_at": "2026-07-10T07:18:18.124Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
   "count": 50,
   "products": [
     {
       "id": "aabe02f6-3ff7-48cd-ab95-460f79f17734",
-      "slug": "bkbvk-mrss-1-lytr-tv68be",
+      "slug": "bkbvk-mrss-1-lytr-ayes9l",
       "name": "בקבוק מרסס 1 ליטר ",
       "name_translations": {},
-      "description": "<p>בקבוק מרסס 1 ליטר </p>",
+      "description": "<p>בקבוק מרסס 1 ליטר</p>",
       "short_description": null,
       "sku": null,
       "brand": null,
@@ -18,12 +18,14 @@
       "base_price": 0,
       "sale_price": null,
       "currency": "ILS",
-      "images": [],
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783667856682-bm6ljg.webp"
+      ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://yotzimmehakelim.zappy5.app/product/bkbvk-mrss-1-lytr-tv68be",
+      "url": "https://yotzimmehakelim.zappy5.app/product/bkbvk-mrss-1-lytr-ayes9l",
       "categories": [],
-      "updated_at": "2026-07-10T07:17:10.840Z"
+      "updated_at": "2026-07-10T07:17:46.579Z"
     },
     {
       "id": "ede4d03e-fcba-475e-89dc-b5e307db594f",
