@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:20:57.685Z",
+  "generated_at": "2026-07-10T09:21:59.923Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 101,
+  "count": 102,
   "products": [
+    {
+      "id": "7f263922-feb5-4050-a87d-3543383d0bbf",
+      "slug": "tslcht-tsba-krm-gvdl-10-9-7-ksrvl-mrkyh-aylsj7",
+      "name": "צלחת צבע קרם גודל 10 9 7 קסרול מרקיה ",
+      "name_translations": {},
+      "description": "<p>צלחת צבע קרם גודל 10 9 7 קסרול מרקיה </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783675257756-p78d7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/tslcht-tsba-krm-gvdl-10-9-7-ksrvl-mrkyh-aylsj7",
+      "categories": [],
+      "updated_at": "2026-07-10T09:21:27.869Z"
+    },
     {
       "id": "65684c1f-3fe1-45d3-b4e0-5bcba89848a6",
       "slug": "tslcht-tsba-lbn-gvdl-10-9-7-ksrvl-mrkyh-v484yx",
