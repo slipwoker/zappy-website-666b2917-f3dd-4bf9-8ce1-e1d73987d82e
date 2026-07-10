@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T09:34:42.299Z",
+  "generated_at": "2026-07-10T09:36:09.011Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 109,
+  "count": 110,
   "products": [
+    {
+      "id": "a3a8edee-9166-4cf7-b16c-252b3ccbbee2",
+      "slug": "kvsvt-mrvkayt-mavtr-lbn-h2krve",
+      "name": "כוסות מרוקאית מעוטר לבן",
+      "name_translations": {},
+      "description": "<p>כוסות מרוקאית מעוטר לבן</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783676115752-mmoif.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/kvsvt-mrvkayt-mavtr-lbn-h2krve",
+      "categories": [],
+      "updated_at": "2026-07-10T09:35:36.950Z"
+    },
     {
       "id": "e9e811ec-33a6-4900-89d1-fe11d1dd44e9",
       "slug": "mgshy-krtvn-agvl-tsba-zhb-ssrxyy",
