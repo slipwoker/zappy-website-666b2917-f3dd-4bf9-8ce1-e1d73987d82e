@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-10T07:50:26.704Z",
+  "generated_at": "2026-07-10T07:51:32.742Z",
   "base_url": "https://yotzimmehakelim.zappy5.app",
   "currency": "ILS",
-  "count": 67,
+  "count": 68,
   "products": [
+    {
+      "id": "625ca214-2800-45b7-ab2d-5c3ebf84d6bd",
+      "slug": "svpr-mgbt-7awpw9",
+      "name": "סופר מגבת ",
+      "name_translations": {},
+      "description": "<p>סופר מגבת </p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://yotzimmehakelim.zappy5.app/assets/product-1783669818474-jb0uo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://yotzimmehakelim.zappy5.app/product/svpr-mgbt-7awpw9",
+      "categories": [],
+      "updated_at": "2026-07-10T07:51:01.204Z"
+    },
     {
       "id": "47765f5b-7eb5-40ab-bda7-8c268e79f86f",
       "slug": "glyl-mtlyvt-tshvb-40-ychydvt-j3bn5e",
